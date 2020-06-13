@@ -1,0 +1,12 @@
+
+    body{
+        background-color: rgba(244, 248, 252, 0.747);
+    }
+    
+    
+    .btn-round-lg{
+    border-radius: 22.5px;
+    }
+    img{
+        width: 100%;
+    }
